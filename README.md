@@ -16,6 +16,7 @@ The project is a work in progress and is not yet complete.
 - [x] Comment on posts
 - [x] Nested comments (recursive lists)
 - [x] User authentication
+- [x] User profiles
 
 ## Setup instructions
 
@@ -32,7 +33,6 @@ The project is a work in progress and is not yet complete.
 
 ## Potential future features
 
-- [ ] User profiles
 - [ ] Sorting posts by recent (date posted), top (most upvotes), and most controversial (most upvotes _and_ downvotes)
 - [ ] User karma scores
 - [ ] User badges / trophies (awards for achievements like number of posts, years on the site, etc.)
